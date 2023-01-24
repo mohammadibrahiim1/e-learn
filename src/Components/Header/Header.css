@@ -1,0 +1,20 @@
+.navbar-nav li{
+    padding-right: 15px;
+    /* font-size: 18px */
+    color: #272042;
+}
+.nav-link{
+    color: #272042;
+    line-height: 22px;
+    font-weight: 400;
+}
+.nav-link:hover{
+    color: #6b789c;
+}
+.navbar-brand{
+    color: #037668;
+    font-weight: 700;
+}
+.navbar-brand:hover{
+    color: #085f55;
+}

@@ -37,6 +37,28 @@ const Header = () => {
     </div>
   </div>
 </nav>
+
+<section className='container'>
+
+  <div className='header-content row '>
+      <div className='col-lg-6'>
+        <p>
+            start your favourite course 
+        </p>
+        <h3>
+        Now learning from anywhere, and build your bright career.
+        </h3>
+        <button className='btn btn-success'>Start Learning</button>
+      </div>
+
+      <div className='col-lg-6'>
+        {/* <a href="https://ibb.co/k1vdwH9"><img src="https://i.ibb.co/YZwr1Ry/elegant-touching-reading-concentrated-sophisticated-1.png" alt="elegant-touching-reading-concentrated-sophisticated-1" border="0"></a> */}
+
+        <img src="https://i.ibb.co/YZwr1Ry/elegant-touching-reading-concentrated-sophisticated-1.png" alt="" style={{widht:"526px", height:"580px"}}/>
+      </div>
+  </div>
+
+</section>
         </div>
     );
 };
